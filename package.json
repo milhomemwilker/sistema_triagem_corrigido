@@ -1,0 +1,12 @@
+{
+  "name": "sistema-triagem",
+  "version": "1.1.1",
+  "private": true,
+  "description": "Sistema educacional de cadastro, triagem e fila com correções de bugs",
+  "scripts": {
+    "test": "node tests/regressao.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
